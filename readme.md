@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Srivastava</h1>
-<h3 align="center">I am an enthusiastic learner trying to figure out new stuffs everyday | I believe in letting my actions speak rather than my bio |</h3>
+<h3 align="center">Freshman coder and an enthusiastic learner | Improvising everyday </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaa22&label=Profile%20views&color=0e75b6&style=flat" alt="adityaa22" /> </p>
 
