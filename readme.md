@@ -9,6 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/adityas04344468" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="adityas04344468" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adityaa11233" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adityaa11233" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100049036092040" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="profile.php?id=100049036092040" height="30" width="40" /></a>
 <a href="https://instagram.com/adi_srivastava123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="adi_srivastava123" height="30" width="40" /></a>
 </p>
